@@ -1,0 +1,9 @@
+html body nav.navbar.navbar-inverse.navbar-fixed-top { background-color: #5990c8 !important; background-image: url("..."); }
+html body nav.navbar.navbar-inverse.navbar-fixed-top div.container div#navbar.collapse.navbar-collapse ul.nav.navbar-nav li.active a { background-color: #5990c8 !important; background-image: url("..."); }
+.navbar-nav ul.nav li a { color: #ffffff; background-color: #5990c8 !important; }
+.left { text-align: left }
+.footer { text-align: center }
+.phglogo { border: 0px solid white; }
+#phglogo { width: 250px; }
+.btn-lg { margin-bottom: 10px; }
+

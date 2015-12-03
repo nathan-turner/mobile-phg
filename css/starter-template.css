@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-inverse { background-color: #5990c8; }
+.navbar-inverse ul.nav li a { color: #ffffff; }
+.navbar-inverse ul.nav li a:hover { color: #ffffff; background-color: black; }
+#phglogo { width: 350px; }
